@@ -1,0 +1,7 @@
+V0.0.1 - Alpha
+
+- Outside map
+- Floor 1 w.i.p
+- Lockjaw N.P.C
+- Main menu
+- Basic character movement & interaction

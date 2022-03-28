@@ -1,0 +1,7 @@
+03/27/2022
+
+- Added Github webhook to Discord
+- Optimized drastically scattering systems that use Geometry nodes
+- Updated from UPBGE 0.3 to UPBGE 0.3.1 for speed improvements
+- Minor Outside changes
+- Floor 1 further re-design
