@@ -4,6 +4,7 @@
 - Added Z-Depth to tree leaves
 - Scrap any existing event for further polishment
 - Fixed doors being 22m tall ( fixed scale units )
+- Fixed normal maps tangent
 
 03/27/2022
 
