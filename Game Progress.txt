@@ -3,6 +3,7 @@
 - Update bge_netlogic to 2.0.5
 - Added Z-Depth to tree leaves
 - Scrap any existing event for further polishment
+- Fixed doors being 22m tall ( fixed scale units )
 
 03/27/2022
 
