@@ -8,6 +8,7 @@
 - Re-added volumetrics
 - Standardized the world shaders
 - Add procedural system for office ceiling
+- Increase office ceiling light intensity
 
 03/27/2022
 
