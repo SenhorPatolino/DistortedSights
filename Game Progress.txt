@@ -3,6 +3,7 @@
 - Floor 1 further re-design
 - Basic player movement
 - Increased floor material quality
+~ End day cause im a lazy fuck that wants to play smth ~
 
 03/28/2022
 
