@@ -2,7 +2,7 @@
 
 - Floor 1 further re-design
 - Basic player movement
-
+- Increased floor material quality
 
 03/28/2022
 
