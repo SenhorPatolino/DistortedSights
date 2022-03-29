@@ -6,6 +6,7 @@
 - Fixed doors being 22m tall ( fixed scale units )
 - Fixed normal maps tangent
 - Re-added volumetrics
+- Standardized the world shaders
 
 03/27/2022
 
