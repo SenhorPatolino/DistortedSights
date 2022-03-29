@@ -9,6 +9,8 @@
 - Standardized the world shaders
 - Add procedural system for office ceiling
 - Increase office ceiling light intensity
+- Floor 1 further re=design
+
 
 03/27/2022
 
@@ -17,3 +19,4 @@
 - Updated from UPBGE 0.3 to UPBGE 0.3.1 for speed improvements
 - Minor Outside changes
 - Floor 1 further re-design
+	_END_
