@@ -2,6 +2,7 @@
 
 - Fixed minor inconsistencies between scenes
 - Fixed outside scale units
+~ Realized that giving myself that much work for a dumb geographic accuracy is worthless, reverted last 2 commits
 
 03/29/2022
 
