@@ -1,4 +1,8 @@
-03/29/200
+04/01/2022 ( No april fools joke today )
+
+- Fixed minor inconsistencies between scenes
+
+03/29/2022
 
 - Floor 1 further re-design
 - Basic player movement
