@@ -1,6 +1,7 @@
 04/01/2022 ( No april fools joke today )
 
 - Fixed minor inconsistencies between scenes
+- Fixed outside scale units
 
 03/29/2022
 
