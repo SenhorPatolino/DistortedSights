@@ -2,6 +2,7 @@
 
 - Improvements on the outside background
 - Preparing extended outside layout for intro cut
+- Fixed various consistency issues in the Outside
 
 04/01/2022 ( No april fools joke today )
 
