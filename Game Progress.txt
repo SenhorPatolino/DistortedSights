@@ -4,6 +4,7 @@
 - Preparing extended outside layout for intro cut
 - Fixed various consistency issues in the Outside
 - Improved topology of Outside walls
+- Re-branded the parking lot as a park
 
 04/01/2022 ( No april fools joke today )
 
