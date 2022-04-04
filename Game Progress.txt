@@ -1,3 +1,7 @@
+04/04/2022
+
+- Improvements on the outside background
+
 04/01/2022 ( No april fools joke today )
 
 - Fixed minor inconsistencies between scenes
