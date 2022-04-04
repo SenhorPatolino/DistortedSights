@@ -6,6 +6,7 @@
 - Improved topology of Outside walls
 - Re-branded the parking lot as a park
 - Scrapped metro and instead added a new kind of train
+- Using 3D mountains instead of 2D
 
 04/01/2022 ( No april fools joke today )
 
