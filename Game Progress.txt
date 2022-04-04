@@ -9,6 +9,7 @@
 - Using 3D mountains instead of 2D
 - Added a new area to the outside, scrapping the old parking lot location
 - Added potential lake easter egg
+- Implement a global cubemap
 
 04/01/2022 ( No april fools joke today )
 
@@ -34,7 +35,7 @@
 - Standardized the world shaders
 - Add procedural system for office ceiling
 - Increase office ceiling light intensity
-- Floor 1 further re=design
+- Floor 1 further re-design
 
 ~ End day ~
 
