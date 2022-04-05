@@ -1,3 +1,7 @@
+05/04/2022
+
+- Better cubemap influence
+
 04/04/2022
 
 - Improvements on the outside background
