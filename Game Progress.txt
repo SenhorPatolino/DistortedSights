@@ -1,3 +1,7 @@
+06/04/2022
+
+- Outside texture changes
+
 05/04/2022
 
 - Better cubemap influence
