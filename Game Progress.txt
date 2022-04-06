@@ -2,6 +2,7 @@
 
 - Outside texture changes
 - Pier unique model concept
+- Optimized water shader
 
 05/04/2022
 
