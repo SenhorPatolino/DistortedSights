@@ -1,6 +1,7 @@
 06/04/2022
 
 - Outside texture changes
+- Pier unique model concept
 
 05/04/2022
 
