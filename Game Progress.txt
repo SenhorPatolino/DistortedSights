@@ -4,15 +4,21 @@
 - Optimized grass material
 - Billboard unique model concept
 
+~ End day ~
+
 04/06/2022
 
 - Outside texture changes
 - Pier unique model concept
 - Optimized water shader
 
+~ End day ~
+
 04/05/2022
 
 - Better cubemap influence
+
+~ End day ~
 
 04/04/2022
 
@@ -27,11 +33,15 @@
 - Added potential lake easter egg
 - Implement a global cubemap
 
+~ End day ~
+
 04/01/2022 ( No april fools joke today )
 
 - Fixed minor inconsistencies between scenes
 - Fixed outside scale units
 ~ Realized that giving myself that much work for a dumb geographic accuracy is worthless, reverted last 2 commits
+
+~ End day ~
 
 03/29/2022
 
