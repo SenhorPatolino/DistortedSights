@@ -1,10 +1,14 @@
-06/04/2022
+04/07/2022
+
+- New grass scatter system
+
+04/06/2022
 
 - Outside texture changes
 - Pier unique model concept
 - Optimized water shader
 
-05/04/2022
+04/05/2022
 
 - Better cubemap influence
 
