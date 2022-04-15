@@ -3,6 +3,7 @@
 - Billboard unique model
 - Map cleanup
 - Fixed scale issues
+- Minor outside changes
 
 04/07/2022
 
