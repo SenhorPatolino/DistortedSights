@@ -1,6 +1,7 @@
 04/15/2022
 
 - Billboard unique model
+- Map cleanup
 
 04/07/2022
 
