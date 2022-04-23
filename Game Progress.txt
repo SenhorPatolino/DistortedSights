@@ -7,6 +7,7 @@
 - Menu wip
 - Deleted old menu
 - Deleted old startup screen
+- Deleted old character model
 
 04/15/2022
 
