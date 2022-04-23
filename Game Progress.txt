@@ -5,6 +5,7 @@
 - Recycled materials
 - Removed legacy assets
 - Menu wip
+- Deleted old menu
 
 04/15/2022
 
