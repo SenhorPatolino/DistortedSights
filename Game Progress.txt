@@ -6,6 +6,7 @@
 - Removed legacy assets
 - Menu wip
 - Deleted old menu
+- Deleted old startup screen
 
 04/15/2022
 
