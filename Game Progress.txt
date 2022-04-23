@@ -1,6 +1,7 @@
 04/23/2022
 
 - Polished floor 1
+- Discarted many unused textures and materials
 
 04/15/2022
 
