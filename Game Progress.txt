@@ -4,6 +4,7 @@
 - Discarted many unused textures and materials
 - Recycled materials
 - Removed legacy assets
+- Menu wip
 
 04/15/2022
 
