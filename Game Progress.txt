@@ -3,6 +3,7 @@
 - Polished floor 1
 - Discarted many unused textures and materials
 - Recycled materials
+- Removed legacy assets
 
 04/15/2022
 
