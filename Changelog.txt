@@ -1,7 +1,49 @@
 V0.0.1 - Alpha
 
-- Outside map
-- Floor 1 w.i.p
-- Lockjaw N.P.C
-- Main menu
-- Basic character movement & interaction
+- Polished floor 1
+- Discarted many unused textures and materials
+- Recycled materials
+- Removed legacy assets
+- Menu wip
+- Deleted old menu
+- Deleted old startup screen
+- Deleted old character model
+- Billboard unique model
+- Map cleanup
+- Fixed scale issues
+- Minor outside changes
+- New grass scatter system
+- Optimized grass material
+- Billboard unique model concept
+- Outside texture changes
+- Pier unique model concept
+- Optimized water shader
+- Better cubemap influence
+- Improvements on the outside background
+- Preparing extended outside layout for intro cut
+- Fixed various consistency issues in the Outside
+- Improved topology of Outside walls
+- Re-branded the parking lot as a park
+- Scrapped metro and instead added a new kind of train
+- Using 3D mountains instead of 2D
+- Added a new area to the outside, scrapping the old parking lot location
+- Added potential lake easter egg
+- Implement a global cubemap
+- Fixed minor inconsistencies between scenes
+- Fixed outside scale units
+- Basic player movement
+- Increased floor material quality
+- Update bge_netlogic to 2.1.0
+- Added Z-Depth to tree leaves
+- Scrap any existing event for further polishment
+- Fixed doors being 22m tall ( fixed scale units )
+- Fixed normal maps tangent
+- Re-added volumetrics
+- Standardized the world shaders
+- Add procedural system for office ceiling
+- Increase office ceiling light intensity
+- Added Github webhook to Discord
+- Optimized drastically scattering systems that use Geometry nodes
+- Updated from UPBGE 0.3 to UPBGE 0.3.1 for speed improvements
+- Minor Outside changes
+- Floor 1 further re-design
