@@ -1,3 +1,7 @@
+04/24/2022
+
+- Update bge_netlogic to 2.1.0
+
 04/23/2022
 
 - Polished floor 1
@@ -8,6 +12,8 @@
 - Deleted old menu
 - Deleted old startup screen
 - Deleted old character model
+
+~ End day ~
 
 04/15/2022
 
