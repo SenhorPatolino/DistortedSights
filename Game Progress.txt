@@ -2,6 +2,7 @@
 
 - Update bge_netlogic to 2.1.0
 - Fix broken scripts
+- Delete unused/legacy scripts
 
 04/23/2022
 
