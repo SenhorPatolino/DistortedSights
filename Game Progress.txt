@@ -1,6 +1,7 @@
 04/27/2022
 
 - Transparency optimizations
+- Removed rain splatter overlay on objects
 
 04/26/2022
 
