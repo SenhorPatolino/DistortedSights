@@ -5,6 +5,8 @@
 - Optimized a few materials
 - Fixed many scale issues
 
+~ End day ~
+
 04/24/2022
 
 - Update bge_netlogic to 2.1.0
