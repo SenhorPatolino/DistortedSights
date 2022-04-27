@@ -1,5 +1,8 @@
 V0.0.1 - Alpha
 
+- Merge a few textures
+- Optimized a few materials
+- Fixed many scale issues
 - Polished floor 1
 - Discarted many unused textures and materials
 - Recycled materials
@@ -44,6 +47,6 @@ V0.0.1 - Alpha
 - Increase office ceiling light intensity
 - Added Github webhook to Discord
 - Optimized drastically scattering systems that use Geometry nodes
-- Updated from UPBGE 0.3 to UPBGE 0.3.1 for speed improvements
+- Updated from UPBGE 0.3 to UPBGE 0.3.2 for speed improvements and new features
 - Minor Outside changes
 - Floor 1 further re-design
