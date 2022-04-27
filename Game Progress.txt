@@ -3,6 +3,7 @@
 - Transparency optimizations
 - Removed rain splatter overlay on objects
 - Added dynamic opacity to rain for an exaggerated but not gameplay disruptive
+- Optimized and improved a few materials
 
 04/26/2022
 
