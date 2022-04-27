@@ -2,6 +2,7 @@
 
 - Upgrade to UPBGE 0.3.2
 - Merge a few textures
+- Optimized a few materials
 
 04/24/2022
 
