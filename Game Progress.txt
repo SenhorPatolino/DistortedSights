@@ -2,6 +2,7 @@
 
 ~ Back to development :D
 ~ Starting up character movement implementation
+~ Implement a 3DSkybox using the Source engine technique
 
 04/27/2022
 
