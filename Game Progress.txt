@@ -1,6 +1,7 @@
 05/08/2022
 
 ~ Back to development :D
+~ Starting up character movement implementation
 
 04/27/2022
 
