@@ -3,6 +3,7 @@
 ~ Back to development :D
 ~ Starting up character movement implementation
 ~ Implement a 3DSkybox using the Source engine technique
+~ Import a mountain model ( from Google Earth using RenderDoc xd )
 
 04/27/2022
 
