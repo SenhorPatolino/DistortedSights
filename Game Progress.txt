@@ -1,3 +1,7 @@
+05/13/2022
+
+~ Rework some of the character movement systems
+
 05/08/2022
 
 ~ Back to development :D
@@ -19,15 +23,11 @@
 - Optimized a few materials
 - Fixed many scale issues
 
-~ End day ~
-
 04/24/2022
 
 - Update bge_netlogic to 2.1.0
 - Fix broken scripts
 - Delete unused/legacy scripts
-
-~ End day ~
 
 04/23/2022
 
@@ -40,8 +40,6 @@
 - Deleted old startup screen
 - Deleted old character model
 
-~ End day ~
-
 04/15/2022
 
 - Billboard unique model
@@ -49,15 +47,11 @@
 - Fixed scale issues
 - Minor outside changes
 
-~ End day ~
-
 04/07/2022
 
 - New grass scatter system
 - Optimized grass material
 - Billboard unique model concept
-
-~ End day ~
 
 04/06/2022
 
@@ -65,13 +59,9 @@
 - Pier unique model concept
 - Optimized water shader
 
-~ End day ~
-
 04/05/2022
 
 - Better cubemap influence
-
-~ End day ~
 
 04/04/2022
 
@@ -86,22 +76,17 @@
 - Added potential lake easter egg
 - Implement a global cubemap
 
-~ End day ~
-
 04/01/2022 ( No april fools joke today )
 
 - Fixed minor inconsistencies between scenes
 - Fixed outside scale units
 ~ Realized that giving myself that much work for a dumb geographic accuracy is worthless, reverted last 2 commits
 
-~ End day ~
-
 03/29/2022
 
 - Floor 1 further re-design
 - Basic player movement
 - Increased floor material quality
-~ End day cause im a lazy fuck that wants to play smth ~
 
 03/28/2022
 
@@ -116,9 +101,6 @@
 - Increase office ceiling light intensity
 - Floor 1 further re-design
 
-~ End day ~
-
-
 03/27/2022
 
 - Added Github webhook to Discord
@@ -126,5 +108,3 @@
 - Updated from UPBGE 0.3 to UPBGE 0.3.1 for speed improvements
 - Minor Outside changes
 - Floor 1 further re-design
-
-~ End day ~
