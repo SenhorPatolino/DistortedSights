@@ -1,6 +1,7 @@
 05/13/2022
 
 ~ Rework some of the character movement systems
+~ Fire sprites rendered
 
 05/08/2022
 
