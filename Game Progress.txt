@@ -1,3 +1,9 @@
+06/13/2022
+
+- Game rebuilt
+
+________________________________________OUTDATED__________________________________________________
+
 05/13/2022
 
 ~ Rework some of the character movement systems
